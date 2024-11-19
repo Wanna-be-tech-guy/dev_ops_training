@@ -14,10 +14,10 @@ I would range my skills in following areas as such:
 5. Github: 3/10
 6. Ansible/Chef/Puppet: 2/10
 7. Other: No rating available
-8. Coding/Scripting
-   -Python: 4/10
-   -C/C++: 1/10
-   -HTML/Java/CSS: 4/100
+8. Coding/Scripting  
+   - Python: 4/10
+   - C/C++: 1/10
+   - HTML/Java/CSS: 4/100
 
 # Goals of this project
 The answer to this is multiparted. Of course, I would love to transtion my career into a DevOps Engineer role, but I am also very interested in things like HPC, Cloud Operations, Virtualization, Networking (Infiniband and Ethernet), so learning as much as I can about how all of these things work inconjuction would be fantastic too.
